@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**J-D-K/J-D-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About Me:
+* Started learning C/C++ many years ago as a teenager to write PSP homebrew. 
+* Have been programming on and off for years when I have time.
+* Still learning new things all of the time.
+* Created the first homebrew save data manager that could be installed on 3DS and didn't require users to memorize/match title ID numbers.
+* Created the first public overclocking tool for Switch.
+* Created the first homebrew tool to add custom avatars to Switch profiles.
+* Currently working on rewriting JKSV, the Switch version of my save data manager.
+#### Other stuff
+* Email: jkhbdev@gmail.com
+* Discord: jk_dev
