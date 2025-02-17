@@ -5,7 +5,6 @@
 * Created the first homebrew save data manager that could be installed on 3DS and didn't require users to memorize/match title ID numbers.
 * Created the first public overclocking tool for Switch.
 * Created the first homebrew tool to add custom avatars to Switch profiles.
-* Created a **private** auction sniper for Great Collections (written in C) that can bid in an auction down to the literal final second.
 * Currently working on rewriting JKSV, the Switch version of my save data manager.
 #### Other stuff
 * Email: jkhbdev@gmail.com
